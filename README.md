@@ -36,6 +36,6 @@ PySticky/
 
 ## ToDo:
 
-- Add default option to read the parse out the current plum.sqlite.
+- Add default option to read the parse out of the current plum.sqlite.
 - Add export option.
 
