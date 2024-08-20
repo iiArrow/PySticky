@@ -23,6 +23,12 @@ Run the script with the path of the Sticky Notes SQLite DB:
 python PySticky.py -f/--file path/to/your/db.sqlite
 ```
 
+To extract the cuurent DB run the following command:
+
+```
+python PySticky.py -c/--current
+```
+
 ## Directory Structure
 
 ```
