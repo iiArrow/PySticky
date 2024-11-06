@@ -17,7 +17,7 @@ def load_database(db_path):
         
         if 'Note' in tables:
             with engine.connect() as connection:
-                query = text("SELECT Text, CreatedTime, UpdatedTime FROM Note")
+                query = text("SELECT Text, CreatedAt, UpdatedAt FROM Note")
                 result = connection.execute(query)
                 rows = result.fetchall()
                 
