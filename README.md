@@ -59,7 +59,6 @@ PySticky/
 
 ## ToDo:
 
-- Add more export formats
 - Implement note searching functionality
 - Create a graphical user interface (GUI)
 
